@@ -83,12 +83,12 @@ body {
     color:#0D1321
 }
 
-.active:hover{
+.active{
     background-color: #FCDEBE;
     border: none;
-    transform: scale(1.2);
+    transform: scale(1.09);
 }
 
-.active:hover span{
+.active span{
     color:#0D1321
 }
