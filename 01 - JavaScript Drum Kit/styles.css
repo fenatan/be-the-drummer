@@ -11,6 +11,7 @@ html {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./assets/images/background2.jpg') no-repeat center top;
     background-size: cover;
     font-size: 62.5%;
+    /* max-height: 100vmin; */
 }
 
 body {
@@ -31,7 +32,7 @@ body {
     font-family: 'Indie Flower';
     font-size: 8rem;
     color: #F1F7ED;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
@@ -91,4 +92,22 @@ body {
 
 .active span{
     color:#0D1321
+}
+
+.container audio{
+    margin-top: 50px;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vmin;
+}
+
+footer p, footer p a{
+    font-size: 1.4rem;
+    text-align: center;
+    color: white;
+    font-weight: bold;
 }
