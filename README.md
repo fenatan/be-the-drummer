@@ -1,5 +1,3 @@
-# JavaScript30
+# Be The Drummer
 
-30 Days Vanilla JS Coding Challenge
-
-- 30 challenges built just with HTML, CSS and Vanilla JS.
+- A fun website for you play music.
